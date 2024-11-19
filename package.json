@@ -1,0 +1,14 @@
+{
+  "name": "randomideas",
+  "version": "1.0.0",
+  "description": "The sharing idea App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Dan Katanti",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
